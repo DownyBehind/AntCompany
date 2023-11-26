@@ -11,6 +11,7 @@ public class BaseScene : MonoBehaviour
     private void Start()
     {
         Init();
+        //test
     }
 
     protected virtual bool Init()
